@@ -1,0 +1,20 @@
+﻿  NALwrite.cpp
+  SEIEncoder.cpp
+  SEIwrite.cpp
+  SyntaxElementWriter.cpp
+  TEncBinCoderCABAC.cpp
+  TEncBinCoderCABACCounter.cpp
+  TEncCavlc.cpp
+  TEncCu.cpp
+  TEncEntropy.cpp
+  TEncGOP.cpp
+  TEncPic.cpp
+  TEncPreanalyzer.cpp
+  TEncRateCtrl.cpp
+  TEncSampleAdaptiveOffset.cpp
+  TEncSbac.cpp
+  TEncSearch.cpp
+  TEncSlice.cpp
+  TEncTop.cpp
+  WeightPredAnalysis.cpp
+  TLibEncoder_vc2015.vcxproj -> C:\Users\ajinj\gitrepos\HEVC-deep-learning-pipeline\HM_dl\build\\vc2015\x64\Release\TLibEncoder\TLibEncoder.lib

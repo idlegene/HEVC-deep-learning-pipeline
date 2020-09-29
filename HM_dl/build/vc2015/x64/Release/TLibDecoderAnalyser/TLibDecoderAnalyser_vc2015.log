@@ -1,0 +1,14 @@
+﻿  AnnexBread.cpp
+  NALread.cpp
+  SEIread.cpp
+  SyntaxElementParser.cpp
+  TDecBinCoderCABAC.cpp
+  TDecCAVLC.cpp
+  TDecConformance.cpp
+  TDecCu.cpp
+  TDecEntropy.cpp
+  TDecGop.cpp
+  TDecSbac.cpp
+  TDecSlice.cpp
+  TDecTop.cpp
+  TLibDecoderAnalyser_vc2015.vcxproj -> C:\Users\ajinj\gitrepos\HEVC-deep-learning-pipeline\HM_dl\build\\vc2015\x64\Release\TLibDecoderAnalyser\TLibDecoderAnalyser.lib

@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 6671 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TAppEncoder_vc2015.vcxproj -> C:\Users\ajinj\gitrepos\HEVC-deep-learning-pipeline\HM_dl\build\\..\bin\vc2015\x64\Release\TAppEncoder.exe
