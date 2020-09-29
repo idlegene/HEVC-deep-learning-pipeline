@@ -27,7 +27,7 @@
 *.lib
 
 # Executables
-*.exe
+
 *.out
 *.app
 !TAppEncoder_original.exe
